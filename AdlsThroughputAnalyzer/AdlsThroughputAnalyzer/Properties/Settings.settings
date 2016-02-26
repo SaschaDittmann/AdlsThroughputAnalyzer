@@ -1,0 +1,27 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="AdlsThroughputAnalyzer.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="SubscriptionId" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="AccountName" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="BlobSize" Type="System.Int64" Scope="User">
+      <Value Profile="(Default)">1024</Value>
+    </Setting>
+    <Setting Name="MaxSegmentSize" Type="System.Int64" Scope="User">
+      <Value Profile="(Default)">256</Value>
+    </Setting>
+    <Setting Name="MaxThreadCount" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">8</Value>
+    </Setting>
+    <Setting Name="TempFileLocal" Type="System.String" Scope="User">
+      <Value Profile="(Default)">D:\tmp\AdlsThroughputAnalyzer.txt</Value>
+    </Setting>
+    <Setting Name="TempFileRemote" Type="System.String" Scope="User">
+      <Value Profile="(Default)">/AdlsThroughputAnalyzer/AdlsThroughputAnalyzer.txt</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
